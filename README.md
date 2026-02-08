@@ -1,4 +1,6 @@
 # protobuf-specs
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fprotobuf-specs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fprotobuf-specs?ref=badge_shield)
+
 
 This repository holds protobuf specifications for Sigstore messages.
 
@@ -45,3 +47,7 @@ else and no requests or support will be provided.
 ## Deprecation Notice
 
 - Effective July 17th, 2025: the jsonschema generated files in gen/jsonschema/schemas/ were removed from this repository.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fprotobuf-specs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fprotobuf-specs?ref=badge_large)
